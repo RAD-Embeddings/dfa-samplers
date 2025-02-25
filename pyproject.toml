@@ -1,6 +1,6 @@
 [project]
 name = "dfa-samplers"
-version = "0.1.0"
+version = "0.1.8"
 description = "Deterministic Finite Automata (DFA) samplers"
 readme = "README.md"
 requires-python = ">=3.12"
